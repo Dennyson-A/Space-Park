@@ -8,7 +8,6 @@ trigger:
 
 pool:
   name: 'my agent'
-  demands: '4.252.0'
 
 steps:
 - task: Maven@3
